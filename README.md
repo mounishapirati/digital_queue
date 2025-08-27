@@ -1,1 +1,6 @@
-# Digital Queue 
+"# Digital Queue" 
+"A smart system to manage queues digitally." 
+"## Features" 
+"- Real-time queue updates" 
+"- User-friendly interface" 
+"- Admin and customer views" 
